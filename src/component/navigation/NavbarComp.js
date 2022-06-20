@@ -10,6 +10,7 @@ import {
 import About from "../../pages/About";
 import Home from "../../pages/Home";
 
+
 export default class NavbarComp extends Component {
     render() {
         return (
